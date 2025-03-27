@@ -35,6 +35,7 @@ XYZ aims to optimize hiring and retention strategies. We hypothesize that turnov
 | **Chi-Square Tests** | Categorical significance for turnover |
 | **Survival Analysis (lifelines)** | Kaplan-Meier & Cox models on tenure |
 | **Time Series Forecast (Prophet)** | Department-level turnover projection for 2025 |
+| **Fixed Effect Vs Random Effects** | Looking at within and between variations in panel data |
 | **Scenario Testing** | "What-if" analysis: 10% reduction in turnover |
 | **Dashboards** | Tableau and Power BI for stakeholder delivery |
 
